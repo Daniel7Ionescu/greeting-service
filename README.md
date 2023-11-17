@@ -5,4 +5,4 @@
 
 ### How to use
 
-- http://localhost:8080/greet/Mike
+- run the app and http://localhost:8080/greet/Mike
